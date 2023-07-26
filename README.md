@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Archiebal99
+ok- 👋 Hi, I’m @Archiebal99
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning hacking somethings
 - 💞️ I’m looking to collaborate on ...
@@ -8,8 +8,9 @@
 Archiebal99/Archiebal99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hack game 55wealth
-http://55five75.com
-https://55five75.com/#/main
-https://55five75.com/#/
-https://55five75.com/#/home/AllLotteryGames/WinGo
+apt update
+apt install git
+git clone https://github.com/Rajkumrdusad/Tool-X.git
+cd Tool-X
+chmod+X install.aex
+sh install.aex
